@@ -7,7 +7,7 @@ ___
  - Portfolio
  - Important links
 
- Visit here: **[htps://emran.github.io](htps://emran.github.io)**
+ Visit here: **[http://emran.github.io](http://emran.github.io)**
 
 
 
