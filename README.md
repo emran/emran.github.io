@@ -1,4 +1,13 @@
-emran.github.io
-===============
+# My Personal Profile
+___
 
-My Personal Profile
+## What is in here
+ - Contact Info
+ - Resume
+ - Portfolio
+ - Important links
+
+ Visit here: **[emran.github.io](emran.github.io)**
+
+
+
